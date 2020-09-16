@@ -2,7 +2,7 @@
 A functional implementation for producing the feasible region plot given a dictionary of constraints.
 
 ## Function:
-* `feasible.feasible.plot_feasible_region_2D`
+* `feasible.fr_plotting.plot_feasible_region_2D`
 
 ## Workflow:
 * Prep input dict(s)

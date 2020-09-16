@@ -135,4 +135,6 @@ def plot_feasible_region_2D(ax, x, constraints,
     ax.legend(title='Constraints',
               bbox_to_anchor=(1.05, 1),
               loc=2, borderaxespad=0.)
+    plt.tight_layout()
+    
     return ax
